@@ -1,0 +1,16 @@
+/* styles.css */
+body {
+    background-color: #ebe5b5;
+}
+
+.modal-content {
+    border-radius: 0.5rem;
+}
+
+.card {
+    border-radius: 0.5rem;
+}
+
+.btn-primary, .btn-secondary, .btn-success {
+    border-radius: 0.3rem;
+}
